@@ -1,10 +1,16 @@
 _repo: Early-History-of-Blackwood-s-Edinburgh-Magazine_50343
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50343-h/images/cover.jpg
 creator:
   author:
     agent_name: Doane, Alice Mary
     gutenberg_agent_id: '45825'
     url: http://www.gutenberg.org/2009/agents/45825
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50343#Early-History-of-Blackwood-s-Edinburgh-Magazine
 gutenberg_issued: '2015-10-30'
 gutenberg_type: Text
 identifiers:
